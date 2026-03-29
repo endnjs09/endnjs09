@@ -2,4 +2,4 @@
 
 
 딥러닝 공부중 <br>
-[![Deep Learning Notes](https://img.shields.io/badge/Learning_DL_with_d2l-Click_to_Visit-blue?style=for-the-badge&logo=pytorch&logoColor=white)](https://endnjs09.github.io/dl-notes/)
+[![Deep Learning Notes](https://img.shields.io/badge/Learning_DL-Click_to_Visit-blue?style=for-the-badge&logo=pytorch&logoColor=white)](https://endnjs09.github.io/dl-notes/)
